@@ -1,11 +1,10 @@
-#EXTM3U
-#EXTINF:0 tvg-logo="", Tecno Geomex
+
 http://tecnotv.club/j22/geomex.m3u
-#EXTINF:0 tvg-logo="", Tecno Geomex 2
+
 http://tecnotv.club/j22/geomex2.m3u
-#EXTINF:0 tvg-logo="", Tecno Smartv 3
+
 http://tecnotv.club/j22/smartv3.m3u
-#EXTINF:0 tvg-logo="", Sr Regio TV
+
 http://srregio.club/a21/tv.m3u
-#EXTINF:0 tvg-logo="", Sr Regio MX
+
 http://srregio.club/a21/mx.m3u
